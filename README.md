@@ -14,7 +14,7 @@ I'm interested in collaboration and Mechanistic Interpretability - feel free to 
 | AI Safety Fundamentals | [AI Alignment Course](https://aisafetyfundamentals.com/alignment/) | 16th October | Online | 6th October |
 | Cambridge AI Safety Hub | [AI Safety Fundamentals Fellowship](https://www.cambridgeaisafety.org/intro) | Fall 2024 | Cambridge | Wednesday 16th Oct 23:59 GMT |
 | Impact Academy | [AI Safety Careers Course](https://impactacademy.org/) | TBD | TBD | TBD |
-| Cambridge AI Safety Hub | [Cambridge Machine Learning for Alignment Bootcamp](https://www.cambridgeaisafety.org/camlab) | In-person/Remote | TBD | TBD |
+| Cambridge AI Safety Hub | [Cambridge Machine Learning for Alignment Bootcamp](https://www.cambridgeaisafety.org/camlab) | TBD | In-person/Remote | TBD |
 
 
 
